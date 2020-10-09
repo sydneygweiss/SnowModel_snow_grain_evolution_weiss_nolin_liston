@@ -95,4 +95,6 @@ Fort Collins, Colorado 80523-1375  | FAX: (970) 491-8241
 To run the example simulation you have to put the values in
 snowmodel.par.example in the new snowmodel.par file.
 
+NO_Temp_Adjustment is the code without the Webster et al 2017 temperature adjustment
+Temp_Adjustment is the code WITH the Webester et al. 2017 temperature adjustment
 
